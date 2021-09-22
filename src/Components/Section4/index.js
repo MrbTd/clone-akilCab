@@ -53,19 +53,35 @@ const Section4 = () => {
                 </Grid>
             </Grid>
             <h1 className={classes.part}>Nos partenaires</h1>
-            <div className="example5">
-                <marquee>
+            <Grid container>
+                <Grid item xs={12} md={2}>
                     <img src="https://akilcab.com/assets/images/strataige-partner.jpg" alt="" />
-                    <img src="https://akilcab.com/assets/images/akil-partner.jpg" alt="" />
-                    <img src="https://akilcab.com/assets/images/strataige-partner.jpg" alt="" />
-                    <img src="https://akilcab.com/assets/images/akil-partner.jpg" alt="" />
-                    <img src="https://akilcab.com/assets/images/strataige-partner.jpg" alt="" />
-                    <img src="https://akilcab.com/assets/images/akil-partner.jpg" alt="" />
-                    <img src="https://akilcab.com/assets/images/strataige-partner.jpg" alt="" />
+
+                </Grid>
+                <Grid item xs={12} md={2}>
                     <img src="https://akilcab.com/assets/images/akil-partner.jpg" alt="" />
 
-                </marquee>
-            </div>
+                </Grid>
+                <Grid item xs={12} md={2}>
+                    <img src="https://akilcab.com/assets/images/strataige-partner.jpg" alt="" />
+
+                </Grid>
+                <Grid item xs={12} md={2}>
+                    <img src="https://akilcab.com/assets/images/akil-partner.jpg" alt="" />
+
+                </Grid>
+                <Grid item xs={12} md={2}>
+                    <img src="https://akilcab.com/assets/images/strataige-partner.jpg" alt="" />
+
+                </Grid>
+                <Grid item xs={12} md={2}>
+                    <img src="https://akilcab.com/assets/images/akil-partner.jpg" alt="" />
+
+                </Grid>
+
+
+
+            </Grid>
         </Container>
     )
 }
