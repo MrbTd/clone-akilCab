@@ -1,4 +1,4 @@
-import { Container, Grid, makeStyles } from '@material-ui/core'
+import { Container, makeStyles } from '@material-ui/core'
 import { Link } from 'react-router-dom'
 import React from 'react'
 import professional from '../assets/professional.png'

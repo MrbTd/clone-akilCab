@@ -6,7 +6,7 @@ import Section3 from '../Section3'
 import Section4 from '../Section4'
 import Footer from '../Footer'
 import {
-    BrowserRouter as Router, Route, Switch,
+   Route, Switch,
 
 } from "react-router-dom";
 import Solutions from '../../Routing/Solutions'

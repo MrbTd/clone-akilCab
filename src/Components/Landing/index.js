@@ -1,4 +1,4 @@
-import { AppBar, Button } from '@material-ui/core'
+import { AppBar } from '@material-ui/core'
 import { Toolbar } from '@material-ui/core'
 import { Grid } from '@material-ui/core'
 import { useMediaQuery } from '@material-ui/core'
