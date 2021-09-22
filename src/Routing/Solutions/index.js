@@ -3,7 +3,7 @@ import React from 'react'
 const Solutions = () => {
     return (
         <div>
-            solutions
+            solutions routing test
         </div>
     )
 }
